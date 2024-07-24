@@ -2,3 +2,8 @@
 ## This is the second.
 ### This is the third.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` javascript
+var myVar = "Hello, World!";
+```
